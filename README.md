@@ -9,6 +9,12 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
+### Login & Sign Up
+
+| Login | Sign Up |
+|-------|---------|
+| ![Login](frontend/screenshots/login.png) | ![Sign Up](frontend/screenshots/signup.png) |
+
 ---
 
 ## ✨ Features
